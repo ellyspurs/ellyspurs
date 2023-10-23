@@ -4,7 +4,7 @@
 
 - <b>Boss of the SOC (</b>
   - [APT Scenario](https://github.com/ellyspurs/APT/blob/main/README.md)
-  - [Ransomware Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ransomware Scenario](https://github.com/ellyspurs/Ransomware/blob/main/README.md)
 - <b>Vulenerability Management</b>
   - [Nessus Essentials](https://github.com/ellyspurs/vulnerabilitymanagement/blob/main/README.md)
 - <b>Cyber Attacks</b>
