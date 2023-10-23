@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Boss of the SOC (</b>
+- <b>Boss of the SOC </b>
   - [APT Scenario](https://github.com/ellyspurs/APT/blob/main/README.md)
   - [Ransomware Scenario](https://github.com/ellyspurs/Ransomware/blob/main/README.md)
 - <b>Vulenerability Management</b>
