@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Boss of the SOC (AlgoExpert)</b>
+- <b>Boss of the SOC (</b>
   - [APT Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Ransomware Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulenerability Management</b>
