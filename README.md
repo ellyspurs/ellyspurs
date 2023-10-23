@@ -5,7 +5,7 @@
 - <b>Boss of the SOC (AlgoExpert)</b>
   - [APT Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Ransomware Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Vulenerability Management</b>
+- <b><a href="https://github.com/ellyspurs/vulnerabilitymanagement/blob/main/README.md">Vulenerability Management</a></b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cyber Attacks</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
