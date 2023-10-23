@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Boss of the SOC (</b>
-  - [APT Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [APT Scenario](https://github.com/ellyspurs/APT/blob/main/README.md)
   - [Ransomware Scenario](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulenerability Management</b>
   - [Nessus Essentials](https://github.com/ellyspurs/vulnerabilitymanagement/blob/main/README.md)
